@@ -1,0 +1,6 @@
+{
+  "name": "SORA",
+  "description": "Ultra-premium immersive hospitality and luxury resort experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
